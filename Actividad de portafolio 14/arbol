@@ -1,0 +1,52 @@
+1)Cuales son raices,ramas y hojas?
+////arbol 1////
+--Raiz:A
+--Ramas:B,C,D,E,f
+--hojas:G,H,I
+////arbol 2////
+--Raiz:A
+--Ramas:B,C,D,E,F,G,H
+--Hojas:I,J,K,L
+
+2)Nivel de cada nodo
+////arbol 1///
+--Nivel 0:A
+--Nivel 1:B,C
+--Nivel 2:D,E,F
+--Nivel 3:G,H,I
+////arbol 2////
+--Nivel 0:A
+--Nivel 1:B
+--Nivel 2:C,D
+--Nivel 3:E,F,G,H
+--Nivel 4:I,J,K,L
+
+3)Profundidad,peso y orden del arbol
+////arbol 1////
+--Profundidad:3
+--Peso:8
+--Orden del arbol:2
+////arbol 2////
+--Profundidad:4
+--Peso:12
+--Orden del arbol:2
+
+4)Un sub Arbol cualquiera\
+////arbol 1////
+C,E,F,H,I
+////arbol 2////
+C,E,F,I,J
+
+5)Determine si es lleno
+////arbol 1////
+--NO es lleno
+////arbol 2////
+--No es lleno
+
+6)Determine si es perfecto
+////arbol 1////
+--No perfecto
+////arbol 2////
+--No perfecto
+
+
